@@ -1,7 +1,7 @@
 ALLOCINE
 ==============
 
-![Chris](.app/assets/images/allocine.png)
+![Chris](./app/assets/images/allocine.png)
 
 Dans cet exercice codé avec Ruby on rails, j'ai donc créer une app Rails dont la BDD contient des films. Des conditions ont été posées:
 
